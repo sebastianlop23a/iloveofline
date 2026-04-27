@@ -1,0 +1,20 @@
+2026-02-16 10:52:39,526 [INFO] ZIP extraído en: C:/Users/SebastianLopez/OneDrive - AVISTA COLOMBIA SAS/Documents
+2026-02-16 11:03:49,242 [INFO] PDFs unidos en: salida
+2026-02-16 11:12:01,582 [INFO] PDFs unidos en: C:/Users/SebastianLopez/Downloads/salida11.pdf
+2026-02-16 11:14:17,808 [ERROR] Error convirtiendo imágenes a PDF: unknown file extension: 
+2026-02-16 11:50:27,874 [INFO] ZIP extraído en: C:/Users/SebastianLopez/OneDrive - AVISTA COLOMBIA SAS/Imágenes
+2026-02-16 11:51:16,775 [INFO] PDFs unidos en: C:/Users/SebastianLopez/Downloads/eppp.pdf
+2026-02-16 15:17:59,092 [INFO] PDF dividido (páginas seleccionadas) en: C:/Users/SebastianLopez/OneDrive - AVISTA COLOMBIA SAS/Escritorio
+2026-02-18 11:07:59,398 [ERROR] Error convirtiendo PDF a imágenes: Unable to get page count. Is poppler installed and in PATH?
+2026-02-18 11:08:35,625 [INFO] Imágenes convertidas a PDF: C:/Users/SebastianLopez/OneDrive - AVISTA COLOMBIA SAS/Escritorio/foto.pdf
+2026-02-18 11:50:36,970 [ERROR] Error convirtiendo PDF a imágenes: Unable to get page count. Is poppler installed and in PATH?
+2026-02-18 11:51:08,121 [INFO] ZIP extraído en: C:/Users/SebastianLopez/Music
+2026-02-20 10:23:01,833 [INFO] ZIP extraído en: C:/Users/SebastianLopez/Videos
+2026-02-26 11:24:21,208 [ERROR] Error desencriptando PDF: No se pudo quitar la contraseña. El PDF está fuertemente protegido.
+2026-02-26 11:38:40,511 [ERROR] No se pudo procesar Resultados639040699132867909 1.pdf: File has not been decrypted
+2026-02-26 11:43:14,033 [ERROR] No se pudo procesar 1760478541562_1571614267532068 (1).pdf: File has not been decrypted
+2026-02-26 11:48:17,933 [ERROR] No se pudo procesar 1760478541562_1571614267532068 (1).pdf: File has not been decrypted
+2026-02-26 12:02:19,903 [ERROR] No se pudo procesar Resultados639040699132867909 1.pdf: File has not been decrypted
+2026-02-26 12:05:14,110 [ERROR] No se pudo procesar Resultados639040699132867909 1.pdf: File has not been decrypted
+2026-02-26 12:12:02,404 [INFO] Contraseña eliminada correctamente: C:/Users/SebastianLopez/Downloads/eppp.pdf
+2026-02-26 12:31:14,855 [ERROR] No se pudo desencriptar C:/Users/SebastianLopez/Downloads/Resultados639040699132867909 1.pdf con la contraseña '70556012'. Error: File has not been decrypted

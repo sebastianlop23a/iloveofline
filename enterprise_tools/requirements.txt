@@ -1,0 +1,12 @@
+PySide6
+qtawesome
+PyPDF2
+Pillow
+pdf2image
+PyMuPDF
+pdf2docx
+pywin32
+psutil
+python-docx
+openpyxl
+python-pptx

@@ -1,0 +1,9 @@
+@echo off
+echo Descargando LibreOffice...
+powershell -Command "Invoke-WebRequest -Uri 'https://www.libreoffice.org/donate/dl/win-x86_64/24.8.0/en-US/LibreOffice_24.8.0_Win_x86-64.msi' -OutFile '%TEMP%\LibreOffice.msi'"
+
+echo Instalando LibreOffice...
+msiexec /i "%TEMP%\LibreOffice.msi" /quiet /norestart
+
+echo LibreOffice instalado. Presiona cualquier tecla para continuar...
+pause
